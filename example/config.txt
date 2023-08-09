@@ -1,0 +1,2 @@
+Prefix plugins/IdentityPlot/example/
+Plugin IdentityPlot inputfile genome.txt outputfile identity.pdf
